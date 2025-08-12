@@ -29,7 +29,7 @@ void setup()
   pinMode(PIN_PCF_INTERRUPT_INPUT, INPUT);
   pinMode(PIN_GOT_INTERRUPT_INDICATOR, OUTPUT);
 
-  flashLED(5);
+  // flashLED(5);
 
   device.digitalWrite(0xffff);
 
@@ -44,7 +44,7 @@ void setup()
   delay(1000);
 
   Serial.println("Clearing any int/mirroring inputs");
-  mirrorInputOntoOutputs();
+  // mirrorInputOntoOutputs();
 
 }
 

@@ -10,13 +10,13 @@
             "includePath": [
                 "D:/Internship/Github/I2C-Module-PCF8575/include",
                 "D:/Internship/Github/I2C-Module-PCF8575/src",
+                "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -24,13 +24,13 @@
                 "path": [
                     "D:/Internship/Github/I2C-Module-PCF8575/include",
                     "D:/Internship/Github/I2C-Module-PCF8575/src",
+                    "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "C:/Users/zakad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
